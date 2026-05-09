@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/G.jpg" width="300" />
+  <img height="350" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/Late night coding vibes.jpg" width="350" />
 </div>
 
 ###
