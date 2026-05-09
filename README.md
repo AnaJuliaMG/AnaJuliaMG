@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me <br></br> Student of Systems Analysis and Development</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Paulista/PE <br><br>- 🔭 I’m working at Data Metrica <br>- 📚 I'm currently learning Systems analysis and development <br>- ⚡ In my free time I Study and Read</p>
 
 ###
 
