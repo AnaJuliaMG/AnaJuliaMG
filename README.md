@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://github.com/user-attachments/assets/a8cc915a-0b4b-41e3-8712-a571f3ecaf81" width="45px" align="center">
 
 <div align="center">
   <img height="350" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/giphy (48).gif" width="600" />
@@ -14,13 +14,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there <img src="https://stickershop.line-scdn.net/sticonshop/v1/sticon/5adef094031a67c6648c64a2/iPhone/003.png?v=5" width="40px" align="center"></h1>
 
 ###
 
@@ -54,16 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
