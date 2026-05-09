@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/user-attachments/assets/a8cc915a-0b4b-41e3-8712-a571f3ecaf81" width="45px" align="center">
 
 <div align="center">
-  <img height="350" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/giphy (48).gif" width="600" />
+  <img height="250" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/giphy (48).gif" width="480" />
 </div>
 
 ###
