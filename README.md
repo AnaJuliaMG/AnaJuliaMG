@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="350" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/Late night coding vibes.jpg" width="350" />
+  <img height="350" src="https://raw.githubusercontent.com/AnaJuliaMG/AnaJuliaMG/main/giphy (48).gif" width="600" />
 </div>
 
 ###
